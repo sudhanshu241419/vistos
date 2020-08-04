@@ -1,0 +1,11 @@
+body{
+  /* background: url(coffee-cup.jpg) no-repeat fixed; */
+  background-color: "#f6f7ff";
+  background-size: 100%; 
+  opacity: 0.9; 
+  -webkit-background:cover;
+  -moz-background:cover;
+  -o-background:cover;
+  background-size: cover;
+  z-index: -1;
+}

@@ -1,0 +1,19 @@
+.menuSliderContainer{
+    width:200px;
+    height:100%;
+    background: #999;
+    margin-top: 65px;
+}
+
+.content{
+    display:flex;
+    margin-top: 65px;
+    width:400px;
+    border:1px solid #000;
+}
+.LoginBox{
+    width:"50%";
+    height:"50%";
+    background-color:"#FFF";
+    opacity:0.9
+}
